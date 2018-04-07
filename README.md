@@ -4,4 +4,6 @@
 
 ## I'm in the featured branch
 
-made changes for git pull demo
+made more changes to git pull
+
+made more changes to git pull/fetch demo

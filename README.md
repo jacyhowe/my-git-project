@@ -1,6 +1,6 @@
 # My Git Project
 
->My code for the git project
+> My innocent change
 
 ## I'm in the featured branch
 

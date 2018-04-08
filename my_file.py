@@ -7,4 +7,5 @@ def hi_there ():
 
     print("Hi Git")
 
-    print("My local change")
+print('updated readme for merge conflict demo')
+
